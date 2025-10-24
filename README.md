@@ -1,7 +1,6 @@
 # Py-Cam
 
 **Hack Front Cam of Any OS Device with Py-Camera || Just Sending A Link ||**
-## ! Developer : [INDIATECHYOUTUBE](https://github.com/INDIATECHYOUTUBE)
 ***
 ## Follow US on Twitter : [@ethicalTutohack](https://twitter.com/ethicalTutohack)
 ***
@@ -29,11 +28,9 @@ Don't harm any using this tool. INDIATECHYOUTUBE Does not promote any illegal ac
 
 ## Usage -
 ```
-git clone https://github.com/INDIATECHYOUTUBE/Py-Cam.git
+git clone https://github.com/GaaZos/Py-Cam.git
 cd py-cam
 python py-cam.py
 ```
 ***
-### Donate Using 
-<noscript><a href="https://paypal.me/indiatechyoutube"><img alt="Donate 👍 using Paypal" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png"></a></noscript>
 
