@@ -1,9 +1,9 @@
-# Coded by @INDIATECHYOUTUBE
-# Github : https://github.com/INDIATECHYOUTUBE
+# Coded by @GaaZos
+# Github : https://github.com/GaaZos
 # Don't copy the code withot permission
-# Donate author on paypal if use any part of the code : https://paypal.me/indiatechyoutube
-# Youtube : https://youtube.com/c/INDIATECHYOUTUBE
-# Twitter : https://twitter.com/@PROGRAMMERsYou1
+# Donate author on paypal if use any part of the code : https://paypal.me/GaaZos
+# Youtube : https://youtube.com/c/GaaZos
+
 import os
 import pathlib
 import re # pip install re
@@ -130,7 +130,7 @@ def banner():
     print(colored('''
     :: This Tool Does not Promote any ILLEGAL Activites :: This Tool is Only for Educational Purpose ::
                     :: If Do any ILLEGAL Activity by this tool // Then you will in Jail ::
-                    :: Youtube : https://youtube.com/c/INDIATECHYOUTUBE ::^_^:: 
+                    :: Youtube : https://youtube.com/c/GaaZos ::^_^:: 
     ''', 'red'))
 def req():
     print("Let's check Tool Requirements : ")
